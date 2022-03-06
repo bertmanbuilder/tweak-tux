@@ -1,2 +1,0 @@
-# tweak-tux
-Custom rom
